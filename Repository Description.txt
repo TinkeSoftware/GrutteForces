@@ -1,0 +1,37 @@
+                             .-.
+                            {{@}}
+            <>               8@8
+          .::::.             888
+      @\\/W\/\/W\//@         8@8
+       \\/^\/\/^\//      _   )8(    _
+        \_O_<>_O_/     (@)__/8@8\__(@)
+   ____________________ `~"-=):(=-"~`
+  |<><><>  |  |  <><><>|     |.|
+  |<>      |  |      <>|     |T|
+  |<>      |  |      <>|     |'|
+  |<>   .--------.   <>|     |.|
+  |     |   ()   |     |     |I|
+  |_____| (O\/O) |_____|     |'|
+  |     \   /\   /     |     |.|
+  |------\  \/  /------|     |N|
+  |       '.__.'       |     |'|
+  |        |  |        |     |.|
+  :        |  |        :     |K|
+   \<>     |  |     <>/      |'|
+    \<>    |  |    <>/       |.|
+     \<>   |  |   <>/        |E|
+      `\<> |  | <>/'         |'|
+        `-.|  |.-`           \ /
+           '--'               ^					    TINKE SOFTWARE
+                                            Free and Open Source Software
+                            - 100% Free, Original, Clean and Quality Software Projects -
+
+ // Associated Commercial Software Organization     Sowilo Software     GitHub @ SowiloSoftware
+ // Associated Commercial Technology Organization  Sowilo Electronics   GitHub @ SowiloElectronics
+
+  _____         __  __        ____
+ / ___/_____ __/ /_/ /____   / __/__  ___________ ___
+/ (_ / __/ // / __/ __/ -_) / _// _ \/ __/ __/ -_|_-<
+\___/_/  \_,_/\__/\__/\__/ /_/  \___/_/  \__/\__/___/
+
+Grutte Forces is an Application For Windows / Linux / Android / iOS named after Grutte Pier. The application aims to maintain extensive lists for blocking and filtering Troll / Malicious / Disinformation accounts and sources across the Internet. This application scans social media accounts and other sources by using Telemetry, Stylometry and other techniques to identify 'persona' accounts that push disinformation. It then places the information into an organized list for human review and allows for blocking / filtering the account(s) and sources with its counterpart application. There are different blocking features such as network layer IP blocking / filtering as well as a script that loads into the browser to block and filter the account(s), similar to PeerBlock.
